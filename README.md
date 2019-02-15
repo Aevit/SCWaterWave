@@ -94,9 +94,6 @@ aView.depthPercent = 0.42;
 [aView wave];
 ```
 
-
-[test](qmkege://kege.com?action=selection&act_id=活动id&gift=是否制作礼物)
-
 ---
 
 ## License
